@@ -24,11 +24,6 @@ export const navOptions = [
     label: "kids",
     path: "/product/listing/kids",
   },
-  {
-    id: "listingKids",
-    label: "adults",
-    path: "/product/listing/kids",
-  },
 ];
 
 export const adminNavOptions = [
